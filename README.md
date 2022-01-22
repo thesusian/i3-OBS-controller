@@ -1,5 +1,9 @@
 # i3 obs controller
 
+### About
+i3 obs controller is used to change the scene when you change your active workspace,
+this can be helpfull for when you are trying to stream live but dont want your viewrs
+to see the other workspaces you open
 
 ### Requirements
 * the [obs-websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) plugin
