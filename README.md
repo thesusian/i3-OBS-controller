@@ -1,9 +1,9 @@
 # i3 obs controller
 
 
-### Installation requirements
-* install the [obs-websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) plugin
-* then install the python library `pip install obs-websocket-py`
+### Requirements
+* the [obs-websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) plugin
+* the `obs-websocket-py` python library `pip install obs-websocket-py`
 
 ### Usage
 1. after installing the [obs-websocket](https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/) plugin, open obs and setup the plugin to add a password and chose a port
